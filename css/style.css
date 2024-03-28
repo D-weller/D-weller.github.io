@@ -23,7 +23,7 @@ body{
     padding-top: 6rem;
     display: inline-block;
     font-size: 3.5rem;
-    color: #ccc;
+    color: #002e5f;
     position: relative;
     letter-spacing: .2rem;
 }
@@ -163,7 +163,7 @@ body{
 }
 
 .home h1{
-    color: #aaa;
+    color: #fff;
     font-size: 5.5rem;
 }
 
